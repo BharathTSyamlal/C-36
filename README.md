@@ -1,1 +1,2 @@
-# C-36
+# C - 36
+Ball moving synchronously
